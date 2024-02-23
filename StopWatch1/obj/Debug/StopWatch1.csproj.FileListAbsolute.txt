@@ -1,0 +1,34 @@
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\bin\Debug\StopWatch1.exe.config
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\bin\Debug\StopWatch1.exe
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\bin\Debug\StopWatch1.pdb
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.AssemblyReference.cache
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\MainWindow.g.cs
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\App.g.cs
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1_MarkupCompile.cache
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1_MarkupCompile.lref
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\MainWindow.baml
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.g.resources
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.Properties.Resources.resources
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.GenerateResource.cache
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.exe
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.pdb
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\bin\Debug\StopWatch1.exe.config
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\bin\Debug\StopWatch1.exe
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\bin\Debug\StopWatch1.pdb
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.AssemblyReference.cache
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\MainWindow.g.cs
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\App.g.cs
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1_MarkupCompile.cache
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1_MarkupCompile.lref
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\MainWindow.baml
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1.g.resources
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1.Properties.Resources.resources
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.GenerateResource.cache
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1.exe
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\StopWatch1.pdb
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\Timer.g.cs
+C:\Users\Nikit\OneDrive\Рабочий стол\Готовые проекты C#\StopWatch1\StopWatch1\obj\Debug\Timer.baml
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\Timer.g.cs
+C:\Users\Nikit\source\repos\StopWatch1\StopWatch1\obj\Debug\Timer.baml
